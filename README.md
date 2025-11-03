@@ -53,9 +53,9 @@ Users can **choose algorithms**, **adjust array size and speed**, **input custom
 
 ## 🖼️ Screenshots
 
-![Before](images/before.png) 
-![During](images/during.png) 
-![After](images/after.png) 
+![Before](Images/before.png) 
+![During](Images/during.png) 
+![After](Images/after.png) 
 
 
 ---
